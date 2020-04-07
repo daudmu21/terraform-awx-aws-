@@ -1,0 +1,4 @@
+# Created by cloud-init v. 18.2 on Sat, 15 Feb 2020 14:08:46 +0000
+
+# User rules for centos
+ansible  ALL=(ALL) NOPASSWD:ALL
